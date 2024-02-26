@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img align="center" top="900" height="300 width="980" alt="GIF" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
+   <img align="center" top="900" height="300 width="980" alt="GIF" src="https://github.com/JulioFernandez99/JulioFernandez99/blob/main/CARTOON.gif">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
