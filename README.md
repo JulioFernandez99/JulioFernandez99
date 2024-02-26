@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="200" src="[https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498](https://www.canva.com/design/DAF917uuQY8/YM0SBKijDBpm30naq7EeHw/view)">
+   <img align="center" top="900" height="300 width="980" alt="GIF" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
